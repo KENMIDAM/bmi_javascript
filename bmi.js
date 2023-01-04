@@ -1,3 +1,3 @@
-let bmi = function(){
+let bmi = function(height,weight){
     
 }
